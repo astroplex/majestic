@@ -60,7 +60,7 @@
     "electron": "1.7.9",
     "electron-builder": "^19.42.1",
     "electron-rebuild": "^1.6.0",
-    "electron-webpack": "1.10.1",
+    "electron-webpack": "2.8.2",
     "electron-webpack-ts": "^1.2.0",
     "typescript": "^2.6.1",
     "webpack": "^3.8.1"
